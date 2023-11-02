@@ -4,3 +4,9 @@ body{
 div.img {
     float: right;
 }
+.round{
+    border-radius: 25px;
+    background: blueviolet;
+    padding: 20px;
+    width: 800px;
+    height: 1550px;}
