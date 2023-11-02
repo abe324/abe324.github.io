@@ -6,11 +6,12 @@ div.img {
     float: right;
 }
 .round{
-    border-radius: 25px;
+    border-radius: 50px;
     background: blueviolet;
     padding: 20px;
     width: 800px;
-    height: 1700px;}
+    height: 2000px;
+    }
 .ali{
     border-image: round;
 }
