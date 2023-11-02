@@ -10,3 +10,6 @@ div.img {
     padding: 20px;
     width: 800px;
     height: 1550px;}
+.ali{
+    border-image: round;
+}
