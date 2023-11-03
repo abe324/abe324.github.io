@@ -12,5 +12,5 @@ div.img {
     height: 2000px;
     }
 .ali{
-    border-image: round;
+    border-radius: 50%;
 }
