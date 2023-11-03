@@ -1,6 +1,7 @@
 html{
     background-color: aquamarine;
     font-family:Agbalumo;
+    text-align: center;
 }
 div.img {
     float: right;
@@ -14,4 +15,7 @@ div.img {
 .ali{
     border-radius: 50%;
     border:3px red solid;
+}
+.vid{
+    margin:auto;
 }
